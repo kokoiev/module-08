@@ -159,10 +159,20 @@ img {
   width: 90px;
   height: 35px;
 }
+
 .signup {
   border: 2px solid white;
   border-radius: 18px;
 }
+.signup:hover {
+  color: #1cd7ad;
+  border: 2px solid #1cd7ad;
+  border-radius: 18px;
+}
+.login:hover {
+  color: #1cd7ad;
+}
+
 .header-title {
   display: block;
   margin: 0 auto;
